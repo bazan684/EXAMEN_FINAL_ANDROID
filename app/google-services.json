@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354764056580",
+    "project_id": "fondos-de-pantalla-4ef1e",
+    "storage_bucket": "fondos-de-pantalla-4ef1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354764056580:android:23f6cc8c0da2eba0bd6d51",
+        "android_client_info": {
+          "package_name": "com.lucasbazan.fondodepantalla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySrZiHnia7AwxVGnSgfWazYp3Yumfj7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
